@@ -1,4 +1,4 @@
-public class Program3 {
+public class Program2 {
     public static void main(String args[]) {
         String arr[][]={{"Paari","Karikalan"},
                 {"Udhiran","Sendhan"},
